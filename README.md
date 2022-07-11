@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoguess&label=Profile%20views&color=0e75b6&style=flat" alt="yeoguess" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yeoguess" alt="yeoguess" /></a> </p>
-
 - 🔭 I’m currently working on [Pharmedica](https://pharmedica.amtrixtech.com.np/pharmedica)
 
 - 🌱 I’m currently learning **React JS.**
